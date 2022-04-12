@@ -15,3 +15,7 @@ Took a few programming classes (C++ and VB.Net) senior year of college (2012-201
 </br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thestrongdev&show_icons=true&theme=radical&?count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+</br>
+
+[Starred Github Gist Repos](https://gist.github.com/thestrongdev/starred) since they don't show in normal github starred repo list
