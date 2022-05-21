@@ -11,7 +11,7 @@ Took a few programming classes (C++ and VB.Net) senior year of college (2012-201
 
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thestrongdev&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thestrongdev&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 </br>
 
