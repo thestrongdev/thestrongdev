@@ -9,12 +9,9 @@ Took a few programming classes (C++ and VB.Net) senior year of college (2012-201
 - ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 - **EF Core** (_couldn't find badge :frowning_face:)_
 
-**Currently studying/practicing:** 
-- ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) 
-
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thestrongdev&show_icons=true&theme=radical&?count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thestrongdev&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 </br>
 
